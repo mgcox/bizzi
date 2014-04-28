@@ -1,0 +1,10 @@
+PODS:
+  - KeyboardController (2.0.2)
+
+DEPENDENCIES:
+  - KeyboardController
+
+SPEC CHECKSUMS:
+  KeyboardController: e22384709b75e18baf42dfeeec04fe2648577a01
+
+COCOAPODS: 0.32.1

@@ -129,7 +129,6 @@
 		94AB809618DD02AE00B77423 /* signupBackground@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "signupBackground@2x.png"; sourceTree = "<group>"; };
 		94AB809818DD02DF00B77423 /* signupBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = signupBackground.png; sourceTree = "<group>"; };
 		94AB809A18DE0BF700B77423 /* Happy_Face@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Happy_Face@2x.png"; sourceTree = "<group>"; };
-		94C63DFE190881C300936381 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 		94C63E021908877A00936381 /* KeyboardController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeyboardController.h; sourceTree = "<group>"; };
 		94C63E031908877A00936381 /* KeyboardController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyboardController.m; sourceTree = "<group>"; };
 		A602BC03893C480487C790D2 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
@@ -173,7 +172,6 @@
 		949090E418DB94CB0055216D = {
 			isa = PBXGroup;
 			children = (
-				94C63DFE190881C300936381 /* Podfile */,
 				949090F618DB94CB0055216D /* bizzi */,
 				9490910F18DB94CB0055216D /* bizziTests */,
 				949090EF18DB94CB0055216D /* Frameworks */,
